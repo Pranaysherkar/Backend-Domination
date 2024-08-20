@@ -43,3 +43,4 @@ fs.rm("./new folder/xyz",{recursive: true},(err)=>{
 //     err ? console.error(err) : console.log("rename sucessfully");
     
 // })
+
